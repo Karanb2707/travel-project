@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "name": "Luxury Sea View Hotel",
+        "location": "Maldivs",
+        "rating": 4.7,
+        "reviews": 122,
+        "price": 800,
+        "image": "/Images/hotel1.png",
+        "featured": "true",
+        "description": "Experience stunning sea views with top-tier luxury amenities.",
+        "facilities": [
+            {"name": "Free Wi-Fi", "icon": "wifi"},
+            {"name": "Swimming Pool", "icon": "swimming"},
+            {"name": "Restaurant", "icon": "restaurant"},
+            {"name": "Airport", "icon": "bus"}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mountain Breeze Resort",
+        "location": "Switzerland",
+        "rating": 4.9,
+        "reviews": 98,
+        "price": 650,
+        "image": "/Images/hotel2.png",
+        "featured": "true",
+        "description": "A serene mountain escape with breathtaking alpine views.",
+        "facilities": [
+            {"name": "Free Wi-Fi", "icon": "wifi"},
+            {"name": "Spa", "icon": "spa"},
+            {"name": "Restaurant", "icon": "restaurant"},
+            {"name": "Hiking Trails", "icon": "map"}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "City Lights Hotel",
+        "location": "New York",
+        "rating": 4.5,
+        "reviews": 320,
+        "price": 550,
+        "image": "/Images/hotel3.png",
+        "featured": "false",
+        "description": "Stay in the heart of the city with vibrant nightlife nearby.",
+        "facilities": [
+            {"name": "Gym", "icon": "fitness"},
+            {"name": "Bar", "icon": "wine"},
+            {"name": "Free Wi-Fi", "icon": "wifi"},
+            {"name": "Parking", "icon": "car"}
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Tropical Escape Resort",
+        "location": "Thailand",
+        "rating": 4.6,
+        "reviews": 210,
+        "price": 480,
+        "image": "/Images/hotel4.png",
+        "featured": "true",
+        "description": "Relax in tropical paradise with beaches and pools at your feet.",
+        "facilities": [
+            {"name": "Swimming Pool", "icon": "swimming"},
+            {"name": "Beach Access", "icon": "umbrella"},
+            {"name": "Spa", "icon": "spa"},
+            {"name": "Free Breakfast", "icon": "coffee"}
+        ]
+    },
+    {
+        "id": 5,
+        "name": "The Royal Palace",
+        "location": "Dubai",
+        "rating": 5.0,
+        "reviews": 500,
+        "price": 950,
+        "image": "/Images/hotel5.png",
+        "featured": "true",
+        "description": "Live like royalty with exclusive services and luxury decor.",
+        "facilities": [
+            {"name": "Private Beach", "icon": "umbrella"},
+            {"name": "Luxury Spa", "icon": "spa"},
+            {"name": "Chauffeur", "icon": "car"},
+            {"name": "Fine Dining", "icon": "restaurant"}
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Lakeside Inn",
+        "location": "Canada",
+        "rating": 4.3,
+        "reviews": 75,
+        "price": 400,
+        "image": "/Images/hotel6.png",
+        "featured": "false",
+        "description": "Peaceful lakeside comfort with cozy nature-inspired amenities.",
+        "facilities": [
+            {"name": "Free Wi-Fi", "icon": "wifi"},
+            {"name": "Canoe Rental", "icon": "boat"},
+            {"name": "Nature Walks", "icon": "map"},
+            {"name": "Fireplace", "icon": "fire"}
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Historic Downtown Lodge",
+        "location": "Italy",
+        "rating": 4.2,
+        "reviews": 189,
+        "price": 390,
+        "image": "/Images/hotel7.png",
+        "featured": "false",
+        "description": "Charming heritage lodge with local flavors and city access.",
+        "facilities": [
+            {"name": "Free Wi-Fi", "icon": "wifi"},
+            {"name": "Local Cuisine", "icon": "restaurant"},
+            {"name": "Bicycle Rental", "icon": "bike"},
+            {"name": "Airport Shuttle", "icon": "bus"}
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Safari Desert Camp",
+        "location": "South Africa",
+        "rating": 4.8,
+        "reviews": 142,
+        "price": 720,
+        "image": "/Images/hotel8.png",
+        "featured": "true",
+        "description": "Adventure under the stars with authentic desert safaris.",
+        "facilities": [
+            {"name": "Guided Safari", "icon": "binoculars"},
+            {"name": "Campfire Dinner", "icon": "fire"},
+            {"name": "Swimming Pool", "icon": "swimming"},
+            {"name": "Local Tours", "icon": "map"}
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Zen Garden Retreat",
+        "location": "Japan",
+        "rating": 4.9,
+        "reviews": 155,
+        "price": 670,
+        "image": "/Images/hotel9.png",
+        "featured": "true",
+        "description": "Unwind in tranquil gardens with peaceful traditional vibes.",
+        "facilities": [
+            {"name": "Hot Spring Bath", "icon": "spa"},
+            {"name": "Meditation Hall", "icon": "spa"},
+            {"name": "Traditional Meals", "icon": "restaurant"},
+            {"name": "Free Wi-Fi", "icon": "wifi"}
+        ]
+    }
+]

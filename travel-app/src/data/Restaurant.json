@@ -1,0 +1,101 @@
+[
+    {
+        "id": 10,
+        "title": "Fast Food",
+        "location": "Bangkok, Thailand",
+        "price": 95,
+        "oldPrice": 120,
+        "rating": 4.7,
+        "reviews": 20,
+        "tag": "Popular",
+        "image": "/Images/restaurent1.png"
+    },
+    {
+        "id": 11,
+        "title": "Seafood Delight",
+        "location": "Lisbon, Portugal",
+        "price": 150,
+        "oldPrice": 190,
+        "rating": 4.8,
+        "reviews": 35,
+        "tag": "Special",
+        "image": "/Images/restaurent2.png"
+    },
+    {
+        "id": 12,
+        "title": "Italian Bistro",
+        "location": "Rome, Italy",
+        "price": 130,
+        "oldPrice": 160,
+        "rating": 4.6,
+        "reviews": 28,
+        "tag": "Authentic",
+        "image": "/Images/restaurent3.png"
+    },
+    {
+        "id": 13,
+        "title": "Sushi Corner",
+        "location": "Tokyo, Japan",
+        "price": 200,
+        "oldPrice": 240,
+        "rating": 4.9,
+        "reviews": 45,
+        "tag": "Top Rated",
+        "image": "/Images/restaurent4.png"
+    },
+    {
+        "id": 14,
+        "title": "BBQ Grill House",
+        "location": "Texas, USA",
+        "price": 110,
+        "oldPrice": 135,
+        "rating": 4.5,
+        "reviews": 33,
+        "tag": "Trending",
+        "image": "/Images/restaurent5.png"
+    },
+    {
+        "id": 15,
+        "title": "Vegan Paradise",
+        "location": "Berlin, Germany",
+        "price": 100,
+        "oldPrice": 125,
+        "rating": 4.7,
+        "reviews": 40,
+        "tag": "Healthy",
+        "image": "/Images/restaurent6.png"
+    },
+    {
+        "id": 16,
+        "title": "Steak & Wine",
+        "location": "Buenos Aires, Argentina",
+        "price": 160,
+        "oldPrice": 190,
+        "rating": 4.8,
+        "reviews": 38,
+        "tag": "Luxury",
+        "image": "/Images/restaurent7.png"
+    },
+    {
+        "id": 17,
+        "title": "Tandoori Treats",
+        "location": "Delhi, India",
+        "price": 90,
+        "oldPrice": 115,
+        "rating": 4.6,
+        "reviews": 29,
+        "tag": "Spicy",
+        "image": "/Images/restaurent8.png"
+    },
+    {
+        "id": 18,
+        "title": "French Delicacies",
+        "location": "Paris, France",
+        "price": 180,
+        "oldPrice": 220,
+        "rating": 4.9,
+        "reviews": 50,
+        "tag": "Elegant",
+        "image": "/Images/restaurent9.png"
+    }
+]
