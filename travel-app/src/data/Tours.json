@@ -1,0 +1,167 @@
+[
+    {
+        "id": 19,
+        "title": "Boat ride in Lago di Braies",
+        "location": "South Tyrol, Italy",
+        "duration": "3 Days, 2 Night",
+        "persons": "2 Person",
+        "price": 113,
+        "rating": 4.8,
+        "reviews": "Featured",
+        "image": "/Images/image1.png"
+    },
+    {
+        "id": 20,
+        "title": "Safari Adventure",
+        "location": "Masai Mara, Kenya",
+        "duration": "5 Days, 4 Night",
+        "persons": "4 Person",
+        "price": 299,
+        "rating": 4.9,
+        "reviews": "Top Rated",
+        "image": "/Images/image2.png"
+    },
+    {
+        "id": 21,
+        "title": "Aurora Viewing",
+        "location": "Tromsø, Norway",
+        "duration": "4 Days, 3 Night",
+        "persons": "2 Person",
+        "price": 220,
+        "rating": 4.7,
+        "reviews": "Popular",
+        "image": "/Images/image3.png"
+    },
+    {
+        "id": 22,
+        "title": "Island Hopping",
+        "location": "Phuket, Thailand",
+        "duration": "3 Days, 2 Night",
+        "persons": "2 Person",
+        "price": 185,
+        "rating": 4.6,
+        "reviews": "Trending",
+        "image": "/Images/image4.png"
+    },
+    {
+        "id": 23,
+        "title": "Hot Air Balloon Ride",
+        "location": "Cappadocia, Turkey",
+        "duration": "2 Days, 1 Night",
+        "persons": "2 Person",
+        "price": 170,
+        "rating": 4.8,
+        "reviews": "Popular",
+        "image": "/Images/image5.png"
+    },
+    {
+        "id": 24,
+        "title": "Trekking the Inca Trail",
+        "location": "Cusco, Peru",
+        "duration": "6 Days, 5 Night",
+        "persons": "2 Person",
+        "price": 310,
+        "rating": 4.9,
+        "reviews": "Featured",
+        "image": "/Images/image6.png"
+    },
+    {
+        "id": 25,
+        "title": "Desert Safari",
+        "location": "Dubai, UAE",
+        "duration": "1 Day",
+        "persons": "4 Person",
+        "price": 120,
+        "rating": 4.7,
+        "reviews": "Best Seller",
+        "image": "/Images/image7.png"
+    },
+    {
+        "id": 26,
+        "title": "Glacier Walk",
+        "location": "Iceland",
+        "duration": "2 Days, 1 Night",
+        "persons": "2 Person",
+        "price": 190,
+        "rating": 4.8,
+        "reviews": "Adventure",
+        "image": "/Images/image8.png"
+    },
+    {
+        "id": 27,
+        "title": "Wine Tasting Tour",
+        "location": "Napa Valley, USA",
+        "duration": "2 Days, 1 Night",
+        "persons": "2 Person",
+        "price": 160,
+        "rating": 4.6,
+        "reviews": "Luxury",
+        "image": "/Images/image9.png"
+    },
+    {
+        "id": 28,
+        "title": "Cultural City Tour",
+        "location": "Kyoto, Japan",
+        "duration": "3 Days, 2 Night",
+        "persons": "2 Person",
+        "price": 175,
+        "rating": 4.7,
+        "reviews": "Cultural",
+        "image": "/Images/image10.png"
+    },
+    {
+        "id": 29,
+        "title": "Snorkeling Trip",
+        "location": "Bali, Indonesia",
+        "duration": "2 Days, 1 Night",
+        "persons": "2 Person",
+        "price": 145,
+        "rating": 4.8,
+        "reviews": "Popular",
+        "image": "/Images/image11.png"
+    },
+    {
+        "id": 30,
+        "title": "Northern Lights Hike",
+        "location": "Lapland, Finland",
+        "duration": "3 Days, 2 Night",
+        "persons": "2 Person",
+        "price": 225,
+        "rating": 4.9,
+        "reviews": "Top Pick",
+        "image": "/Images/image12.png"
+    },
+    {
+        "id": 31,
+        "title": "Great Wall Exploration",
+        "location": "Beijing, China",
+        "duration": "4 Days, 3 Night",
+        "persons": "2 Person",
+        "price": 205,
+        "rating": 4.7,
+        "reviews": "Historic",
+        "image": "/Images/image13.png"
+    },
+    {
+        "id": 32,
+        "title": "Safari River Cruise",
+        "location": "Botswana",
+        "duration": "3 Days, 2 Night",
+        "persons": "4 Person",
+        "price": 275,
+        "rating": 4.8,
+        "reviews": "Unique",
+        "image": "/Images/image14.png"
+    },
+    {
+        "id": 33,
+        "title": "Machu Picchu Sunrise Tour",
+        "location": "Peru",
+        "duration": "2 Days, 1 Night",
+        "persons": "2 Person",
+        "price": 240,
+        "rating": 5.0,
+        "reviews": "Iconic",
+        "image": "/Images/image15.png"
+    }
+]
