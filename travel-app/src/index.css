@@ -1,5 +1,3 @@
-@tailwind utilities;
-
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Kaushan+Script&display=swap');
 
 * {
@@ -14,7 +12,7 @@
 :root {
     --primary-color: #870624;
     --secondary-color: #e5f410;
-    --section-bg: #2d0021;
+    --section-bg: #160010;
     --section-light: #200047;
     --background-linear: linear-gradient(180deg, #efeedb 0%, rgba(239, 238, 219, 0), 100%);
     --text-color: black;
