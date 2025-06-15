@@ -1,11 +1,12 @@
 import Navbar from "./components/Navbar"
+import Index from "./components/pages/Index"
 
 function App() {
 
   return (
     <div>
-      <Navbar/>
-      {/* 1hr */}
+      <Navbar />
+      <Index />
     </div>
   )
 }
