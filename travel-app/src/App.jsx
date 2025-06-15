@@ -7,6 +7,8 @@ function App() {
     <div>
       <Navbar />
       <Index />
+
+      {/* 1:06 hr */}
     </div>
   )
 }
